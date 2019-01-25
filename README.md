@@ -1,2 +1,2 @@
 # ASE_Assignment
-Art Style Transfer Assignment
+Art Style Transfer for ASE Assignment
